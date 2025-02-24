@@ -27,7 +27,7 @@ body {
 
 #app-frame {
   /* background: url('http://static1.360vrs.com/pano-content/judith-stone-at-sunset-east-farndon/640px-360-panorama.jpg'); */
-  /* background-image: url(/image-mix-6.png);  */
+  background-image: url(/image-mix-6.png); 
   /* background-repeat: no-repeat; */
 -webkit-animation: backgroundScroll 20s linear infinite;
 animation: backgroundScroll 30s linear infinite;
@@ -36,7 +36,7 @@ animation: backgroundScroll 30s linear infinite;
 /* backdrop-filter: brightness(110%) */
 }
 
-/* @-webkit-keyframes backgroundScroll {
+@-webkit-keyframes backgroundScroll {
   from {background-position: 0 0;}
   to {background-position: -400px 0;}
   }
@@ -44,7 +44,7 @@ animation: backgroundScroll 30s linear infinite;
 @keyframes backgroundScroll {
   from {background-position: 0 0;}
   to {background-position: -400px 0;}
-  } */
+  }
 
 
 @layer base {
