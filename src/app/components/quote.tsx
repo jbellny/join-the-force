@@ -1,6 +1,6 @@
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+// import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
-import Image from "next/image"
+// import Image from "next/image"
 export default function Quote() {
   return (
     <div className="flex w-3/4 mx-auto gap-4">

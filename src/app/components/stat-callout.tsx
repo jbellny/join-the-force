@@ -4,8 +4,8 @@ import ForceButton from "./forceButton"
 export default function StatCallout() {
   // const statBackground = 'bg-gray-200'
   const statBackground = ""
-  const iconHeight = "61" //75% = 61
-  const iconWidth = "65" //75% = 49
+  // const iconHeight = "61" //75% = 61
+  // const iconWidth = "65" //75% = 49
   return (
     <div className="flex flex-col gap-2 border border-gray-300 px-5 py-10 rounded-md">
       <div className="flex flex-col items-baseline font-inter gap-3">
